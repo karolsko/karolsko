@@ -11,7 +11,6 @@
       <b>frontend</b><br />
       <img src="https://img.shields.io/badge/-React-111?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/-Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
-      <img src="https://img.shields.io/badge/-Figma-111?style=flat-square&logo=figma&logoColor=F24E1E"/>
     </td>
   </tr>
   <tr>
