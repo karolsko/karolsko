@@ -19,6 +19,8 @@
       <img src="https://img.shields.io/badge/-MCP-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
       <img src="https://img.shields.io/badge/-PyTorch-111?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
       <img src="https://img.shields.io/badge/-Claude%20Code-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
+      <img src="https://img.shields.io/badge/-Grok-111?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-OpenBot-111?style=flat-square"/>
     </td>
   </tr>
   <tr>
