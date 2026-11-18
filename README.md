@@ -26,7 +26,6 @@
       <b>infra</b><br />
       <img src="https://img.shields.io/badge/-Postgres-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
       <img src="https://img.shields.io/badge/-Docker-111?style=flat-square&logo=docker&logoColor=2496ED"/>
-      <img src="https://img.shields.io/badge/-Kubernetes-111?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
       <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
     </td>
   </tr>
