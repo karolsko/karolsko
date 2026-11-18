@@ -17,12 +17,8 @@
     <td>
       <b>agents / ai</b><br />
       <img src="https://img.shields.io/badge/-MCP-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
-      <img src="https://img.shields.io/badge/-AI%20SDK-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-PyTorch-111?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
-      <img src="https://img.shields.io/badge/-OpenAI-111?style=flat-square&logo=openai&logoColor=10A37F"/>
-      <img src="https://img.shields.io/badge/-Cursor-111?style=flat-square&logo=cursor&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Claude%20Code-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
-      <img src="https://img.shields.io/badge/-LangChain-111?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
     </td>
   </tr>
   <tr>
