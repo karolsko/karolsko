@@ -4,7 +4,6 @@
       <b>languages</b><br />
       <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/>
       <img src="https://img.shields.io/badge/-Go-111?style=flat-square&logo=go&logoColor=00ADD8"/>
-      <img src="https://img.shields.io/badge/-Java-111?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
     </td>
   </tr>
   <tr>
