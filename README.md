@@ -30,6 +30,7 @@
       <img src="https://img.shields.io/badge/-Docker-111?style=flat-square&logo=docker&logoColor=2496ED"/>
       <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Tailscale-111?style=flat-square&logo=tailscale&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-GitHub%20Actions-111?style=flat-square&logo=githubactions&logoColor=2088FF"/>
     </td>
   </tr>
 </table>
