@@ -29,12 +29,9 @@
   <tr>
     <td>
       <b>infra</b><br />
-      <img src="https://img.shields.io/badge/-FastAPI-111?style=flat-square&logo=fastapi&logoColor=009688"/>
       <img src="https://img.shields.io/badge/-Postgres-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-      <img src="https://img.shields.io/badge/-Supabase-111?style=flat-square&logo=supabase&logoColor=3FCF8E"/>
       <img src="https://img.shields.io/badge/-Docker-111?style=flat-square&logo=docker&logoColor=2496ED"/>
       <img src="https://img.shields.io/badge/-Kubernetes-111?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
-      <img src="https://img.shields.io/badge/-AWS-111?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
       <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
     </td>
   </tr>
