@@ -4,6 +4,7 @@
       <b>languages</b><br />
       <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/>
       <img src="https://img.shields.io/badge/-Go-111?style=flat-square&logo=go&logoColor=00ADD8"/>
+      <img src="https://img.shields.io/badge/-Nix-111?style=flat-square&logo=nixos&logoColor=5277C3"/>
     </td>
   </tr>
   <tr>
@@ -31,6 +32,7 @@
       <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Tailscale-111?style=flat-square&logo=tailscale&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-GitHub%20Actions-111?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+      <img src="https://img.shields.io/badge/-Nix-111?style=flat-square&logo=nixos&logoColor=5277C3"/>
     </td>
   </tr>
 </table>
