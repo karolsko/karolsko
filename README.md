@@ -28,6 +28,7 @@
       <img src="https://img.shields.io/badge/-Postgres-111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
       <img src="https://img.shields.io/badge/-Docker-111?style=flat-square&logo=docker&logoColor=2496ED"/>
       <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-Tailscale-111?style=flat-square&logo=tailscale&logoColor=ffffff"/>
     </td>
   </tr>
 </table>
